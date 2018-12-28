@@ -1,4 +1,4 @@
->
+﻿>
 > *From:* Bugyi Zsolt [mailto:jelentkezes@profession.hu]
 > *Sent:* Friday, October 12, 2018 3:08 PM
 > *To:* Béda Olga; phoenix27954@profession.hu
@@ -7,7 +7,7 @@
 >
 >
 >
-> Tisztelt Hirdetőnk!
+> Tisztelt Hirdetőnk
 >
 > Az Ön által feladott álláshirdetésre az alábbi pályázat érkezett a
 > *Profession.hu* <https://www.profession.hu> rendszerén keresztül.
@@ -21,16 +21,16 @@
 > *Jelentkező:*
 > Név: *Bugyi Zsolt*
 > E-mail: *bugyi17@gmail.com <bugyi17@gmail.com>*
+
 > Telefonszám: 06202753820
 >
 > *Csatolt dokumentumok:*
 > zsolt önéletrajz 2018.pdf, zsolt motivációs levél 2018.pdf,
 >
-> Jelentkezés elküldve: *2018.10.12. 15:08*
+> Jelentkezés elküldve: *2018.10.12. 
 >
 > *A jelentkezéshez írt kísérőlevél:*
 >
-> Tisztelt Hölgyem / Uram!
 >
 > Ezúton szeretnék jelentkezni az Önök által, a Profession.hu oldalán
 > meghirdetett Takarító pozícióra.
